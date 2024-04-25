@@ -15,7 +15,7 @@ TennisGame2.prototype.getScore = function() {
     // Problème potentiel : Conditions complexes pour détecter les scores et les situations de jeu
 
     if (this.P1point === this.P2point && this.P1point < 3) {
-        // Problème potentiel : Répétition de code pour la conversion du score en mots ("Love", "Fifteen", etc.)
+        // Problème potentiel : Répétition de code pour la conversion du score en mots
     }
 
     if (this.P1point === this.P2point && this.P1point > 2)
