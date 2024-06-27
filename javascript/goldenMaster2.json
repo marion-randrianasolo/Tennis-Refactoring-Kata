@@ -1,0 +1,152 @@
+[
+  {
+    "language": "en",
+    "action": "initial",
+    "score": "Love-All"
+  },
+  {
+    "language": "en",
+    "action": "player1 scores",
+    "score": "Fifteen-Love"
+  },
+  {
+    "language": "en",
+    "action": "player2 scores",
+    "score": "Fifteen-All"
+  },
+  {
+    "language": "en",
+    "action": "player1 scores again",
+    "score": "Thirty-Fifteen"
+  },
+  {
+    "language": "en",
+    "action": "player1 scores again",
+    "score": "Forty-Fifteen"
+  },
+  {
+    "language": "en",
+    "action": "player2 scores again",
+    "score": "Forty-Thirty"
+  },
+  {
+    "language": "en",
+    "action": "player1 scores again",
+    "score": "Win for player1"
+  },
+  {
+    "language": "en",
+    "action": "deuce",
+    "score": "Win for player1"
+  },
+  {
+    "language": "en",
+    "action": "advantage player1",
+    "score": "Win for player1"
+  },
+  {
+    "language": "en",
+    "action": "win for player1",
+    "score": "Win for player1"
+  },
+  {
+    "language": "es",
+    "action": "initial",
+    "score": "Cero-Igual"
+  },
+  {
+    "language": "es",
+    "action": "player1 scores",
+    "score": "Quince-Cero"
+  },
+  {
+    "language": "es",
+    "action": "player2 scores",
+    "score": "Quince-Igual"
+  },
+  {
+    "language": "es",
+    "action": "player1 scores again",
+    "score": "Treinta-Quince"
+  },
+  {
+    "language": "es",
+    "action": "player1 scores again",
+    "score": "Cuarenta-Quince"
+  },
+  {
+    "language": "es",
+    "action": "player2 scores again",
+    "score": "Cuarenta-Treinta"
+  },
+  {
+    "language": "es",
+    "action": "player1 scores again",
+    "score": "Victoria para player1"
+  },
+  {
+    "language": "es",
+    "action": "deuce",
+    "score": "Victoria para player1"
+  },
+  {
+    "language": "es",
+    "action": "advantage player1",
+    "score": "Victoria para player1"
+  },
+  {
+    "language": "es",
+    "action": "win for player1",
+    "score": "Victoria para player1"
+  },
+  {
+    "language": "fr",
+    "action": "initial",
+    "score": "Zéro-Égalité"
+  },
+  {
+    "language": "fr",
+    "action": "player1 scores",
+    "score": "Quinze-Zéro"
+  },
+  {
+    "language": "fr",
+    "action": "player2 scores",
+    "score": "Quinze-Égalité"
+  },
+  {
+    "language": "fr",
+    "action": "player1 scores again",
+    "score": "Trente-Quinze"
+  },
+  {
+    "language": "fr",
+    "action": "player1 scores again",
+    "score": "Quarante-Quinze"
+  },
+  {
+    "language": "fr",
+    "action": "player2 scores again",
+    "score": "Quarante-Trente"
+  },
+  {
+    "language": "fr",
+    "action": "player1 scores again",
+    "score": "Victoire pour player1"
+  },
+  {
+    "language": "fr",
+    "action": "deuce",
+    "score": "Victoire pour player1"
+  },
+  {
+    "language": "fr",
+    "action": "advantage player1",
+    "score": "Victoire pour player1"
+  },
+  {
+    "language": "fr",
+    "action": "win for player1",
+    "score": "Victoire pour player1"
+  }
+]

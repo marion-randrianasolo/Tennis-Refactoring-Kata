@@ -1,0 +1,30 @@
+[
+  {
+    "action": "initial",
+    "score": "Love-All"
+  },
+  {
+    "action": "player1 scores",
+    "score": "Fifteen-Love"
+  },
+  {
+    "action": "player2 scores",
+    "score": "Fifteen-All"
+  },
+  {
+    "action": "player1 scores again",
+    "score": "Thirty-Fifteen"
+  },
+  {
+    "action": "player1 scores again",
+    "score": "Forty-Fifteen"
+  },
+  {
+    "action": "player2 scores again",
+    "score": "Forty-Thirty"
+  },
+  {
+    "action": "player1 scores again",
+    "score": "Win for player1"
+  }
+]
